@@ -1,1 +1,1 @@
-# personal-projects
+# my-first-projects
